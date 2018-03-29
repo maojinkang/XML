@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userinfobeans>
+	<userinfobean id="2" uid="1">
+		<name>阿达</name>
+		<sex>男</sex>
+		<department>信息学院</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="3" uid="4">
+		<name>顺丰速递发</name>
+		<sex>男</sex>
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="4" uid="5">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="5" uid="6">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="6" uid="7">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="7" uid="8">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="8" uid="9">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="9" uid="10">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="10" uid="11">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="11" uid="12">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="12" uid="13">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="13" uid="3">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="14" uid="4">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="15" uid="5">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="16" uid="6">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="17" uid="7">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="18" uid="8">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="19" uid="9">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="20" uid="10">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="21" uid="11">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="22" uid="12">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="23" uid="13">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="24" uid="14">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="25" uid="15">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="26" uid="16">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="27" uid="17">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="28" uid="18">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="29" uid="19">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="30" uid="20">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="31" uid="21">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="32" uid="22">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="33" uid="23">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="34" uid="24">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="35" uid="25">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="36" uid="26">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="37" uid="27">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="38" uid="28">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="39" uid="29">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="40" uid="30">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="41" uid="31">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="42" uid="32">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="43" uid="33">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="44" uid="34">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="45" uid="35">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="46" uid="36">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="47" uid="37">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="48" uid="38">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="49" uid="39">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="50" uid="40">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="51" uid="41">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="52" uid="42">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="53" uid="43">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="54" uid="44">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="55" uid="45">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="56" uid="46">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="57" uid="47">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="58" uid="48">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="59" uid="49">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="60" uid="50">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="61" uid="51">
+		<name />
+		<sex />
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+	<userinfobean id="62" uid="52">
+		<name></name>
+		<sex></sex>
+		<department>信息工程</department>
+		<major>软件工程</major>
+		<class>3班</class>
+	</userinfobean>
+</userinfobeans>
